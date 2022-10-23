@@ -9,10 +9,13 @@ I'm a software engineer with strong passion for learning new things. I'm familia
 
 ### Recent contribution
 
+- PR [#6](https://github.com/angeloricardoweb/boilerplate-react-vite/pull/6) on [angeloricardoweb/boilerplate-react-vite](https://github.com/angeloricardoweb/boilerplate-react-vite)
+- PR [#216](https://github.com/chaoss/grimoirelab-tutorial/pull/216) on [chaoss/grimoirelab-tutorial](https://github.com/chaoss/grimoirelab-tutorial)
+- PR [#101](https://github.com/Aatmaj-Zephyr/Basic-memory-game/pull/101) on [Aatmaj-Zephyr/Basic-memory-game](https://github.com/Aatmaj-Zephyr/Basic-memory-game)
+- PR [#3](https://github.com/open-horizon-services/service-detectron2/pull/3) on [open-horizon-services/service-detectron2](https://github.com/open-horizon-services/service-detectron2)
 - PR [#93](https://github.com/rizafahmi/carikerja/pull/93) on [rizafahmi/carikerja](https://github.com/rizafahmi/carikerja)
 - PR [#391](https://github.com/knuckleswtf/scribe/pull/391) on [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe)
-- PR [#53](https://github.com/zainfathoni/kelas.rumahberbagi.com/pull/53) on [zainfathoni/kelas.rumahberbagi.com](https://github.com/zainfathoni/kelas.rumahberbagi.com)
-- PR [#66](https://github.com/zainfathoni/kelas.rumahberbagi.com/pull/66) on [zainfathoni/kelas.rumahberbagi.com](https://github.com/zainfathoni/kelas.rumahberbagi.com)
+- [.....explore more](https://github.com/pulls?q=is%3Aclosed+author%3Aretry19+is%3Apublic)
 
 ### Recent blog
 
