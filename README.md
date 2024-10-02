@@ -5,7 +5,7 @@ I'm a software engineer with strong passion for learning new things. I'm familia
 - 🌱 I’m currently learning [`Go`](https://go.dev/), [`Remix`](https://remix.run/), and [`Design Patern`](https://refactoring.guru/design-patterns)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/reza-rachmanuddin/)
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- ⚡ Fun fact: [HxH anime still hiatus until now 😥](https://www.sportskeeda.com/anime/news-will-hunter-x-hunter-manga-ever-continue-fans-desparate-series-approaches-3-year-long-hiatus?utm_source=www.sportskeeda.com&utm_medium=native&utm_campaign=ShareArticle)
+- ⚡ Fun fact: -
 
 ### Recent contribution
 
